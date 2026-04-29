@@ -1,4 +1,4 @@
-## You're a ~~wizard  QA, Harry!
+## You're a ~~wizard~~QA, Harry!
 
 <!--
 **KrestIV/KrestIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
